@@ -71,6 +71,10 @@ The implementation plan for the bike sharing services in different cities should
 
 To further expand the information provided for desicion making additional graphs such as monthly usage, use vs weather and number of subscribers vs number of residents by age could be performed.
 
-* Link to dashboard
+* Link to Module visualizations
 
 [link to dashboard](https://public.tableau.com/app/profile/lilliana.violeta.azofeifa.rodriguez/viz/Modulework_16771684293250/NYCStory?publish=yes)
+
+* Link to Challenge visualizations 
+
+[link to challenge](https://public.tableau.com/views/ChallengeModule15/CheckoutTimesforUsers?:language=en-US&publish=yes)
