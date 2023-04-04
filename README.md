@@ -1,4 +1,4 @@
-# Tableau Bikesharing
+# Tableau Bike-sharing
 Data visualization challenge using Tableau Public
 ## Overview of the statistical analysis:
 For this project the business details of New York City bike sharing service Citi Bikes are analyzed. The information obtained from this already working service would help establish a new bike sharing service in  Des Moines, Iowa.
@@ -8,21 +8,20 @@ Present clear and appealing information to potential investors about the nature 
 
 ## Results
 
-Bike sharing is an ecofriendly transportation alternative for urban areas. To characterize the service provided in NYC the following visualizations were created:
+Bike sharing is an eco-friendly transportation alternative for urban areas. To characterize the service provided in NYC the following visualizations were created:
 
 1. General Information
 
 ![dashboard](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/general_info.png)
 
-* This visualization (Tableau dashboard) summarizes the total numbers of trips evaluated and the composition of the user according to their gender
-* There is a total of 2,344,224 trips evaluated
+* This visualization (Tableau dashboard) summarizes the total numbers of trips evaluated and the composition of the user according to their gender.
+* There are a total of 2,344,224 trips evaluated.
 
 2. Average Trip Duration by Age
 
 ![age](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/trip_age.png)
 
-* In general younger clients use the bikes for longer periods of time (in average). 
-This means in a different city with a younger population bike retention time could be longer per user.
+* In general younger clients use the bikes for longer periods of time (on average). Therefore, a different city with a younger population could have longer bike retention times on average.
 
 3. Bike Use
 
@@ -43,22 +42,24 @@ The plot shows the majority of bicycles have an even amount of usage per month.
 
 ![checkout_times_by_gender](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/checkout_times_by_gender.png)
 
-* Has shown on the diagram above almost 110,000 bikes are checkout by male user while female clients checkout just above 30,000 bikes.
+* As shown on the diagram above almost 110,000 bikes are checked out by male users while female clients checkout just above 30,000 bikes.
 However for both gender user the retention time is approximately between 5 to 10 minutes
+
 
 6. Trips by Gender
 
 ![trips_by_gender](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/trips_by_gender.png)
 
-* The plot shows a similar usage pattern for both male and female user, with highest demand during weekdays around 8 am and around 5 pm to  6 pm.
-* During the weekends service demands are higher on Saturdays than Sundays, indicating this could be the ideal maintenance day, specially before 8 am
+* The plot shows a similar usage pattern for both male and female users, with highest demand during weekdays around 8 am and around 5 pm to  6 pm.
+* During the weekends service demands are higher on Saturdays than Sundays, indicating this could be the ideal maintenance day, specially before 8 am.
+
 
 7. Trips by Weekday (Gender and Usertype filters)
 
 ![trips_by_gender_by_weekday.png](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/trips_by_gender_by_weekday.png)
 
 * The plot provides further detail into the type of customer that most demands the bike sharing services: Subscribers
-Even though bike sharing is attractive to tourists, the majority of the business relays on subscriber type users.
+Even though bike sharing is attractive to tourists, the majority of the business relies on subscriber type users.
 
 
 
@@ -69,7 +70,7 @@ The implementation plan for the bike sharing services in different cities should
 
 * Additional visualizations
 
-To further expand the information provided for desicion making additional graphs such as monthly usage, use vs weather and number of subscribers vs number of residents by age could be performed.
+To further expand the information provided for decision making additional graphs such as monthly usage, use vs weather and number of subscribers vs number of residents by age could be performed.
 
 * Link to Module visualizations
 
