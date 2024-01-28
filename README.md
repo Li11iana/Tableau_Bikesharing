@@ -21,7 +21,7 @@ Bike sharing is an eco-friendly transportation alternative for urban areas. To c
 
 ![age](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/trip_age.png)
 
-* In general younger clients use the bikes for longer periods of time (on average). Therefore, a different city with a younger population could have longer bike retention times on average.
+* In general, younger clients use the bikes for longer periods of time (on average). Therefore, a different city with a younger population could have longer bike retention times on average.
 
 3. Bike Use
 
@@ -29,7 +29,7 @@ Bike sharing is an eco-friendly transportation alternative for urban areas. To c
 
 * This bubble chart demonstrates the number of trips each bike has accumulated through the month.
 Larger red circles indicate more usage and probably more need of maintenance.
-The plot shows the majority of bicycles have an even amount of usage per month.
+The plot shows that most bicycles have an even amount of usage per month.
 
 
 4. Checkout Times by Users
@@ -42,8 +42,8 @@ The plot shows the majority of bicycles have an even amount of usage per month.
 
 ![checkout_times_by_gender](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/checkout_times_by_gender.png)
 
-* As shown on the diagram above almost 110,000 bikes are checked out by male users while female clients checkout just above 30,000 bikes.
-However for both gender user the retention time is approximately between 5 to 10 minutes
+* As shown on the diagram above almost 110,000 bikes are checked out by male users while female client's checkout just above 30,000 bikes.
+However, for both gender user the retention time is approximately between 5 to 10 minutes
 
 
 6. Trips by Gender
@@ -51,7 +51,7 @@ However for both gender user the retention time is approximately between 5 to 10
 ![trips_by_gender](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/trips_by_gender.png)
 
 * The plot shows a similar usage pattern for both male and female users, with highest demand during weekdays around 8 am and around 5 pm to  6 pm.
-* During the weekends service demands are higher on Saturdays than Sundays, indicating this could be the ideal maintenance day, specially before 8 am.
+* During the weekends service demands are higher on Saturdays than Sundays, indicating this could be the ideal maintenance day, especially before 8 am.
 
 
 7. Trips by Weekday (Gender and Usertype filters)
@@ -59,7 +59,7 @@ However for both gender user the retention time is approximately between 5 to 10
 ![trips_by_gender_by_weekday.png](https://github.com/Li11iana/Tableau_Bikesharing/blob/main/resources/trips_by_gender_by_weekday.png)
 
 * The plot provides further detail into the type of customer that most demands the bike sharing services: Subscribers
-Even though bike sharing is attractive to tourists, the majority of the business relies on subscriber type users.
+Even though bike sharing is attractive to tourists, most of the business relies on subscriber type users.
 
 
 
